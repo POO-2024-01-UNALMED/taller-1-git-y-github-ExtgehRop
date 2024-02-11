@@ -1,3 +1,6 @@
 David Esteban Martin Acosta
 20
 Aprender los fundamentos del POO y algunas habilidades externas
+Porque la carpeta ya no esta vacia y eso representa un cambio para GitHub sobre el repositorio y por lo tanto se puede hacer un commit
+
+Porque se generan conflictos.
